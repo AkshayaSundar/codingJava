@@ -33,7 +33,7 @@ public class ProductOfOtherElements {
         for(int i=0; i<input.length;i++)
         {
             if(input[i] == 0) {
-                output[i] = 0;
+                output[i] = product;
             }
             else {
                 output[i] = product;
